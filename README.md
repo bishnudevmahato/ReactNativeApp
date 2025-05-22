@@ -1,4 +1,4 @@
-To create app to run the project stepp by stey
+To create app to run the project step by step
 # Create project
 npx @react-native-community/cli init WorkingMiniEcommerceApp
 cd WorkingMiniEcommerceApp
@@ -14,5 +14,18 @@ npm install react-native-screens react-native-safe-area-context react-native-ges
 
 npm install @react-native-async-storage/async-storage
 
+
+# Check device
+adb devices
+
 # Run the project
-npx react-native run-android
+npx react-native run-android   // Android
+
+npx react-native run-ios       // IOS
+
+npm react-native start         // Web
+
+
+
+# Project APk File
+ [text](../app-release.apk)
