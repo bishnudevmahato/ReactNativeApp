@@ -27,5 +27,6 @@ npm react-native start         // Web
 
 
 
-# Project APk File
- [text](../app-release.apk)
+## 📲 Download the App
+
+[Download APK](https://github.com/bishnudevmahato/ReactNativeApp/releases/download/v1.0.0/app-release.apk)
